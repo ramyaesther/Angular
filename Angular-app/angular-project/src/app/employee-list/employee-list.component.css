@@ -1,0 +1,27 @@
+/* employee-list.component.css */
+
+/* Style for the table */
+.table-container {
+    margin-top: 20px;
+    background-color: aqua;
+  }
+  
+  .table {
+    width: 100%;
+    background-color: aquamarine;
+  }
+  
+  .table th,
+  .table td {
+    text-align: left;
+  }
+  
+  /* Style for buttons */
+  .btn-container {
+    margin-top: 10px;
+  }
+  
+  .btn {
+    margin-right: 10px;
+  }
+  
